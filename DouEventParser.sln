@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DouEventParser", "DouEventParser\DouEventParser.csproj", "{3C2A412E-337E-4A9A-B39E-A2ACC44E239F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C2A412E-337E-4A9A-B39E-A2ACC44E239F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2A412E-337E-4A9A-B39E-A2ACC44E239F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2A412E-337E-4A9A-B39E-A2ACC44E239F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2A412E-337E-4A9A-B39E-A2ACC44E239F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {028CB570-E01C-499D-977B-662D23B0F661}
+	EndGlobalSection
+EndGlobal
